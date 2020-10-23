@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\POO - AULAS PRATICAS\21-10\WindowsFormsApp2 - ATIVIDADE NOTA\WindowsFormsApp2 - ATIVIDADE NOTA\bin\Debug\WindowsFormsApp2 - ATIVIDADE NOTA.exe.config
+C:\Users\user\Desktop\POO - AULAS PRATICAS\21-10\WindowsFormsApp2 - ATIVIDADE NOTA\WindowsFormsApp2 - ATIVIDADE NOTA\bin\Debug\WindowsFormsApp2 - ATIVIDADE NOTA.exe
+C:\Users\user\Desktop\POO - AULAS PRATICAS\21-10\WindowsFormsApp2 - ATIVIDADE NOTA\WindowsFormsApp2 - ATIVIDADE NOTA\bin\Debug\WindowsFormsApp2 - ATIVIDADE NOTA.pdb
+C:\Users\user\Desktop\POO - AULAS PRATICAS\21-10\WindowsFormsApp2 - ATIVIDADE NOTA\WindowsFormsApp2 - ATIVIDADE NOTA\obj\Debug\WindowsFormsApp2 - ATIVIDADE NOTA.csprojAssemblyReference.cache
+C:\Users\user\Desktop\POO - AULAS PRATICAS\21-10\WindowsFormsApp2 - ATIVIDADE NOTA\WindowsFormsApp2 - ATIVIDADE NOTA\obj\Debug\WindowsFormsApp2___ATIVIDADE_NOTA.Form1.resources
+C:\Users\user\Desktop\POO - AULAS PRATICAS\21-10\WindowsFormsApp2 - ATIVIDADE NOTA\WindowsFormsApp2 - ATIVIDADE NOTA\obj\Debug\WindowsFormsApp2___ATIVIDADE_NOTA.Properties.Resources.resources
+C:\Users\user\Desktop\POO - AULAS PRATICAS\21-10\WindowsFormsApp2 - ATIVIDADE NOTA\WindowsFormsApp2 - ATIVIDADE NOTA\obj\Debug\WindowsFormsApp2 - ATIVIDADE NOTA.csproj.GenerateResource.cache
+C:\Users\user\Desktop\POO - AULAS PRATICAS\21-10\WindowsFormsApp2 - ATIVIDADE NOTA\WindowsFormsApp2 - ATIVIDADE NOTA\obj\Debug\WindowsFormsApp2 - ATIVIDADE NOTA.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\POO - AULAS PRATICAS\21-10\WindowsFormsApp2 - ATIVIDADE NOTA\WindowsFormsApp2 - ATIVIDADE NOTA\obj\Debug\WindowsFormsApp2 - ATIVIDADE NOTA.exe
+C:\Users\user\Desktop\POO - AULAS PRATICAS\21-10\WindowsFormsApp2 - ATIVIDADE NOTA\WindowsFormsApp2 - ATIVIDADE NOTA\obj\Debug\WindowsFormsApp2 - ATIVIDADE NOTA.pdb
